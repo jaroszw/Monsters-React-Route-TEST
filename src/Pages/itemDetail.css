@@ -1,0 +1,15 @@
+.item-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+  width: 60%;
+  border: 10px solid white;
+  background-color: #821752;
+}
+
+.description{
+  color: #f8efd4;
+  flex: 1;
+  font-size: 10px;
+}

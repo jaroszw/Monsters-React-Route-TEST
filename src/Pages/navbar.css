@@ -1,0 +1,29 @@
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  background-color: #821752;
+}
+
+.navbar ul{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 30%;
+}
+
+.navbar ul li {
+  list-style: none;
+  color: #f8efd4;
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.navbar h1{
+  color: #fff;
+}
+
+.navbar h1{
+  color: #f8efd4
+}
